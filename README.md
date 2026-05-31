@@ -1,4 +1,4 @@
-# 🚀 Real-Time Cryptocurrency Streaming Pipeline using Kafka & Snowflake
+#  Real-Time Cryptocurrency Streaming Pipeline using Kafka & Snowflake
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-Streaming-black?style=for-the-badge\&logo=apachekafka)
